@@ -9,7 +9,7 @@
 ```javascript
 const geo = {
   pronouns: "He" | "him",
-  code: [Javascript, Java, HTML, CSS],
+  code: [Java, Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
 }
 ```
