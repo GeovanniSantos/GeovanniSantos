@@ -1,6 +1,6 @@
 <h2> Hi, I'm Geovanni! <img src="https://media.giphy.com/media/4BJCvMoLPePq8/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="230">
-<p><em>Analysis and development of systems at <a href="http://www.fatecsp.br/">Faculdade de tecnologia de São Paulo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Trainee Web Developer at <a href="https://jbq.com.br/">JBQ Global</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Analysis and development of systems at <a href="http://www.fatecsp.br/">Faculdade de tecnologia de São Paulo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Intern Java Developer at <a href="https://www.sisconsultoria.com.br/#/">SIS Consultoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
