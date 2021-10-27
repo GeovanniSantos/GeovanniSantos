@@ -10,7 +10,7 @@
 const geo = {
   pronouns: "He" | "him",
   code: [Java, Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components],
+  tools: [Spring, React, Redux, Node, Styled-Components],
 }
 ```
 
