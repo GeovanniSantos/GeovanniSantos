@@ -4,7 +4,7 @@
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/3ov9k0Ziq50EoOuWRi/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const geo = {
@@ -14,6 +14,6 @@ const geo = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/3ov9k0Ziq50EoOuWRi/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
