@@ -4,7 +4,7 @@
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="60"> A little more about me...  
+### <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="90"> A little more about me...  
 
 ```javascript
 const geo = {
